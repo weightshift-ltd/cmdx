@@ -54,8 +54,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'cmdx'
-copyright = '2018, Marcus Ottosson'
-author = 'Marcus Ottosson'
+copyright = '2019, WeightShift Ltd'
+author = 'WeightShift'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -161,9 +161,9 @@ texinfo_documents = [
 ]
 
 
-def setup(app):
-    app.add_stylesheet('css/cmdx.css')
-    app.add_stylesheet('css/pygments.css')
+#def setup(app):
+#    app.add_stylesheet('css/cmdx.css')
+#    app.add_stylesheet('css/pygments.css')
 
 
 # add_module_names = False
