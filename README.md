@@ -27,6 +27,11 @@ On average, `cmdx` is **140x faster** than [PyMEL](https://github.com/LumaPictur
 - See [API Documentation](https://weightshift.io/cmdx/api/) for usage 
 - See `help()` for examples on a particular command, e.g. `help(cmdx.Node)`
 
+### API Reference
+
+The API Reference for `cmdx` is available from https://cmdx.weightshift.io/
+
+
 ### What is novel?
 
 With [so many options](#comparison) for interacting with Maya, when or why should you choose `cmdx`?
